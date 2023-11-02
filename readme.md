@@ -26,6 +26,11 @@ A forward-thinking Product Manager with over a decade of expertise in product st
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kglatt&layout=compact&langs_count=6&custom_title=Top%20Programming%20Languages&theme=radical)](https://github.com/kglatt)
 ![Profile Views](https://komarev.com/ghpvc/?username=kglatt)
 
+## 📞 Connect with me
 
+<p align="left">
+<a href="https://linkedin.com/in/karlaglatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karlaglatt" height="30" width="40" /></a>
+<a href="https://medium.com/karlaglatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="karlaglatt" height="30" width="40" /></a>
+</p>
 
 
