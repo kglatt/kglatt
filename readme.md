@@ -20,13 +20,10 @@ A forward-thinking Product Manager with over a decade of expertise in product st
 - Collaborated with engineers, product teams, and stakeholders to plan and redesign the user interface, which succeeded in a 15% increase in user retention.
 - Drastically improved user engagement by increasing the average number of product page views.
 
----
+## 📊 Github Stats
 
 ![kglatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=kglatt&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kglatt&layout=compact&langs_count=6&custom_title=Top%20Programming%20Languages&theme=radical)](https://github.com/kglatt)
-
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=kglatt)
 
 
