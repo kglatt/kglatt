@@ -14,7 +14,7 @@ A forward-thinking Product Manager with over a decade of expertise in product st
 - Software Development Life Cycle (SDLC)
 - Agile Methodologies
 
-## 🏆 Demonstrated Achievements
+## 🏆 Achievements
 
 - Defined product roadmap for an eCommerce platform, by analyzing Customer Experience, achieving a 20% increase in annual profit.
 - Collaborated with engineers, product teams, and stakeholders to plan and redesign the user interface, which succeeded in a 15% increase in user retention.
