@@ -8,7 +8,6 @@ I’m passionate about building scalable SaaS and fintech products that deliver 
 ### 💼 What I Bring to the Table
 - 🚀 Marketplace & Platform Strategy  
 - 🔐 Payment Systems & Compliance (SOC 2, PCI DSS)  
-- ☁️ Scalable SaaS Architecture  
 - 🔗 API Integrations & Cloud Migrations  
 - 🎨 UX Optimization & Data-Driven Experimentation  
 - 🤝 Cross-Functional Leadership & Agile Delivery  
